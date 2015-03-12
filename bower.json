@@ -1,0 +1,27 @@
+{
+  "name": "dataltables-responsive-gh",
+  "version": "0.1",
+  "homepage": "https://github.com/GreenHsec/datatables-responsive",
+  "authors": [
+    "Alvaro Peña <apena@intellisoft.cl>"
+  ],
+  "description": "Plugins Responsive DataTables",
+  "main": [
+    "files/1.10/css/datatables.responsive.css",
+    "files/1.10/img/minus.png",
+    "files/1.10/img/plus.png",
+    "files/1.10/js/datatables.responsive.js"
+  ],
+  "keywords": [
+    "DataTables",
+    "GreenHsec"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
